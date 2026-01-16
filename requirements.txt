@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+openpyxl
+xlsxwriter
+python-docx
+pdfplumber
+requests
+easyocr
+opencv-python-headless
